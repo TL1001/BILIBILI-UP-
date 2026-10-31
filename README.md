@@ -1,4 +1,14 @@
 # BILIBILI-UP-
+欢迎联系我2570258863@qq.com 学习交流
+！！ 以下是exe的文件，我不会上传大文件，所以以下是网盘链接。
+通过网盘分享的文件：Bili.exe
+链接: https://pan.baidu.com/s/1YyPObi4xtcjQMqeWgLrKNg?pwd=5m9k 提取码: 5m9k
+
+我用夸克网盘给你分享了「Bili.exe」，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~1f713bxIIs~:/
+链接：https://pan.quark.cn/s/6373c9561762?pwd=AuQ8
+提取码：AuQ8
+
 B站特别关注和普通关注的区别主要体现在提示方式和推送频率上。
 
 一、提示方式不同
