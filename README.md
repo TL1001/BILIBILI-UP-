@@ -12,7 +12,13 @@ B站特别关注和普通关注的区别主要体现在提示方式和推送频�
 普通关注：推送频率相对较低，主要依赖于UP主的更新频率和B站的算法推荐。
 
 特别关注：推送频率相对较高，因为B站会优先向特别关注的用户推送这些UP主的所有重要更新，包括新视频发布、直播开始、动态更新等。这意味着你将更频繁地收到这些UP主的最新动态。
-<img width="1080" height="400" alt="mmexport1793449122088" src="https://github.com/user-attachments/assets/325c0150-744b-474c-b982-be86294e574c" />
-<img width="1080" height="400" alt="mmexport1793449116194" src="https://github.com/user-attachments/assets/1aee5e17-5a77-42ab-989c-6885e9388260" />
-<img width="1080" height="400" alt="mmexport1793449117304" src="https://github.com/user-attachments/assets/7a48165e-3577-46ec-abb3-7ce02c2c1db5" />
+综上所述，B站的特别关注和普通关注在提示方式和推送频率上存在显著差异。特别关注能够让你更及时地获取到关注UP主的最新动态，而普通关注则相对较为普通和常规。
+
+
+普通关注的B站几乎不推送！！！！！！
+
+
+<img width="1080" height="500" alt="mmexport1793449122088" src="https://github.com/user-attachments/assets/325c0150-744b-474c-b982-be86294e574c" />
+<img width="1080" height="500" alt="mmexport1793449116194" src="https://github.com/user-attachments/assets/1aee5e17-5a77-42ab-989c-6885e9388260" />
+<img width="1080" height="500" alt="mmexport1793449117304" src="https://github.com/user-attachments/assets/7a48165e-3577-46ec-abb3-7ce02c2c1db5" />
 
